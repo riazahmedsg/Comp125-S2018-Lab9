@@ -1,0 +1,19 @@
+{
+    "Contacts": [
+        {
+            "name": "Riaz Ahmed",
+            "number": "416-555-5555",
+            "email": "riaz@example.com"
+        },
+        {
+            "name": "Nusrat Riaz",
+            "number": "416-556-5555",
+            "email": "nusrat@example.com"
+        },
+        {
+            "name": "Jane Doe",
+            "number": "416-557-5555",
+            "email": "jane@example.com"
+        }
+    ]
+}
